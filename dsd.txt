@@ -1,0 +1,19 @@
+Computer Laboratory Resources Inventory System PHP MySql Source Code
+
+admin login:
+username: prathap
+password: ccet
+
+user login:
+username: abi
+password: ccet
+
+Instructions:
+1. Download the source code.
+2. Extract the compressed folder.
+3. Run the xampp control panel and start the apache and mysql
+4. Copy the extracted folder to htdocs
+5. Open the browser and type localhost/phpmyadmin
+6. Create DB as the name of tech
+7. import thesis.sql in the database folder
+8. Run the program by typing in any browser localhost/tech
